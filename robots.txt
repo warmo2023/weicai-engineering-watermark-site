@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fcai.me/wcxjxz/sitemap.xml
